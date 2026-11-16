@@ -7,7 +7,7 @@ st.title("Student Registration Form")
 name = st.text_input("Name of the student")
 roll = st.text_input("Roll Number of the student")
 
-age = st.slider("Select Age", 15, 30, 19)
+age = st.slider("Select Age", 15, 30, 21)
 
 course = st.text_input("Course")
 phone = st.text_input("Phone Number")
